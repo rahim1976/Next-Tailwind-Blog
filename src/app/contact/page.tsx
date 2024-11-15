@@ -86,7 +86,7 @@ const Contact = () => {
                 name='email'
                 value={formData.email}
                 onChange={handleChange}
-                className='shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 focus:outline-none focus:shadow-outline block w-full p-2.5 dark:bg-cardColor dark:border-gray-600 dark:placeholder-black dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500'
+                className='shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 focus:outline-none focus:shadow-outline block w-full p-2.5 dark:bg-cardColor dark:border-gray-600 dark:placeholder-black dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500'
                 placeholder='Enter Your Email'
                 required
               />
